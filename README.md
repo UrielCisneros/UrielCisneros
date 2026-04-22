@@ -63,8 +63,8 @@ const uriel = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=urielcisneros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=urielcisneros&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=urielcisneros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /> -->
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=urielcisneros&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
