@@ -95,6 +95,10 @@ const uriel = {
   <i>Feel free to reach out if you want to collaborate on a project, discuss tech, or just chat!</i>
   
   <br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uriel-cisneros-torres-9a5a10149/)
+  
+  <br/>
   <br/>
   
   **⭐️ From [UrielCisneros](https://github.com/urielcisneros) with 💜**
