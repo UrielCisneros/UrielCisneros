@@ -33,7 +33,7 @@ const uriel = {
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,firebase" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,graphql,firebase" alt="Backend Skills" />
 </p>
 
 ### Mobile Development
@@ -44,12 +44,12 @@ const uriel = {
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cs" alt="Languages" />
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" alt="Databases" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="48" height="48"/>
 </p>
 
@@ -69,14 +69,6 @@ const uriel = {
 
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urielcisneros&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=urielcisneros&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
